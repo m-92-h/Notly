@@ -6,8 +6,8 @@ A modern, responsive task management application built with **React** (frontend)
 
 ## 🚀 Live Preview
 
-* **Live Demo:** [https://your-app-link.vercel.app](https://your-app-link.vercel.app)
-* **Production API:** [https://your-api-link.com/api](https://your-api-link.com/api)
+* **Live Demo:** [https://notly-nine.vercel.app](https://notly-nine.vercel.app)
+* **Production API:** [https://notly-api.vercel.app/api](https://notly-api.vercel.app/api)
 
 ---
 
