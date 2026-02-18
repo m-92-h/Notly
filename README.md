@@ -22,10 +22,7 @@ A modern, responsive task management application built with **React** (frontend)
 ## 🖼️ Screenshots
 
 ### Desktop View
-![Dashboard Full Light](./documentation/screenshots/desktop-views/dashboard-full/light-mode.png)
-
-### Mobile View
-![Dashboard Mobile Light](./documentation/screenshots/mobile-views/dashboard-full/light-mode.png)
+![Dashboard Full dark](./documentation/screenshots/desktop-views/dashboard-empty/dark-mode.png)
 
 ---
 
