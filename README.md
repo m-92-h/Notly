@@ -1,4 +1,4 @@
-# 📝 Todo App
+# 📝 Notly
 
 A modern, responsive task management application built with **React** (frontend) and **Node.js/Express** (backend). Perfect for organizing your daily tasks with a clean, intuitive interface.
 
@@ -41,7 +41,7 @@ A modern, responsive task management application built with **React** (frontend)
 ## 📁 Project Structure
 
 ```
-todo-app/
+notly/
 ├── client/                 # React Frontend
 │   ├── src/
 │   │   ├── components/    # UI components
